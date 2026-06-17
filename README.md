@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311b92,651fff,8c52ff&height=250&section=header&text=BABITH%20P%20S&fontSize=55&fontColor=ffffff&fontAlignY=38" alt="Capsule Render Wave Banner" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer;Full%20Stack%20Python%20Developer;Generative%20AI%20%26%20LLM%20Integrator&font=Fira%20Code&center=true&width=500&height=50&color=9065ff&vCenter=true&size=22" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer;Full%20Stack%20Python%20Developer;Generative%20AI%20%26%20LLM%20Integrator&font=Fira%20Code&center=true&width=650&height=50&color=9065ff&vCenter=true&size=20" alt="Typing SVG Animation" />
 </p>
 
 <p align="center">
