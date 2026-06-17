@@ -1,8 +1,3 @@
-Edited README.md
-
-Here is the complete updated code with your live portfolio link and the updated LinkedIn links. Copy this entire block and paste it to replace the current content of your `README.md` file:
-
-```markdown
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311b92,651fff,8c52ff&height=250&section=header&text=BABITH%20P%20S&fontSize=55&fontColor=ffffff&fontAlignY=38" alt="Capsule Render Wave Banner" /></p>
 
 <p align="center">
@@ -304,4 +299,3 @@ open_to: "Full-Time Software Engineering & AI/ML Engineer Roles"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311b92,651fff,8c52ff&height=120&section=footer" alt="Capsule Render Footer Banner" />
 </p>
-```
