@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabithps&count_bg=%238A2BE2&title_bg=%232F2F2F&title=Profile+Views&style=flat-square" alt="Profile Views Badge" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabithps&count_bg=%238A2BE2&title_bg=%232F2F2F&title=Profile+Views&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/babithps?label=Followers&style=flat-square&color=blueviolet" alt="Followers Badge" />
   <img src="https://img.shields.io/github/stars/babithps?label=Stars&style=flat-square&color=blueviolet" alt="Stars Badge" />
 </p>
