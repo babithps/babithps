@@ -241,9 +241,7 @@ Built a React frontend communicating with a lightweight Flask REST API backend. 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/cybercolloids/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=babithps&theme=radical&column=7" alt="github profile trophy" />
-  </a>
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=babithps&theme=radical&column=7" alt="github profile trophy" />
 </p>
 
 ---
